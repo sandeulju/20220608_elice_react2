@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sandeulju/20220608_elice_react2.git/static/css/main.073c9b0a.css",
+    "main.js": "/sandeulju/20220608_elice_react2.git/static/js/main.0a92c61d.js",
+    "static/js/787.76c517c9.chunk.js": "/sandeulju/20220608_elice_react2.git/static/js/787.76c517c9.chunk.js",
+    "static/media/logo.svg": "/sandeulju/20220608_elice_react2.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sandeulju/20220608_elice_react2.git/index.html",
+    "main.073c9b0a.css.map": "/sandeulju/20220608_elice_react2.git/static/css/main.073c9b0a.css.map",
+    "main.0a92c61d.js.map": "/sandeulju/20220608_elice_react2.git/static/js/main.0a92c61d.js.map",
+    "787.76c517c9.chunk.js.map": "/sandeulju/20220608_elice_react2.git/static/js/787.76c517c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0a92c61d.js"
+  ]
+}
